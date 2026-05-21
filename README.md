@@ -1,2 +1,2 @@
 # todolist
-complete project
+complete project todolist
